@@ -32,17 +32,17 @@
     </define>
     <verbose-stacktraces>true</verbose-stacktraces>
     <source-path append="true">
-      <path-element>C:\Projects\FreshPlanetCodeTest\Dwyer-Minesweeper\src</path-element>
-      <path-element>C:\Projects\FreshPlanetCodeTest\Dwyer-Minesweeper\system</path-element>
-      <path-element>C:\Projects\FreshPlanetCodeTest\Dwyer-Minesweeper\assets</path-element>
-      <path-element>C:\Projects\FreshPlanetCodeTest\Dwyer-Minesweeper\starling\src</path-element>
+      <path-element>C:\Users\Michael\Documents\GitHub\dwyer_minesweeper\src</path-element>
+      <path-element>C:\Users\Michael\Documents\GitHub\dwyer_minesweeper\system</path-element>
+      <path-element>C:\Users\Michael\Documents\GitHub\dwyer_minesweeper\assets</path-element>
+      <path-element>C:\Users\Michael\Documents\GitHub\dwyer_minesweeper\starling\src</path-element>
       <path-element>C:\Program Files (x86)\Adobe\Adobe Flash CS4\Common\Configuration\Component Source\ActionScript 3.0\User Interface</path-element>
       <path-element>C:\Program Files (x86)\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
     <library-path append="true" />
   </compiler>
   <file-specs>
-    <path-element>C:\Projects\FreshPlanetCodeTest\Dwyer-Minesweeper\src\dwyer\MSPDocument.as</path-element>
+    <path-element>C:\Users\Michael\Documents\GitHub\dwyer_minesweeper\src\dwyer\MSPDocument.as</path-element>
   </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>30</default-frame-rate>
