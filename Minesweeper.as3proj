@@ -49,7 +49,7 @@
     <option linkReport="" />
     <option loadExterns="" />
     <option staticLinkRSL="True" />
-    <option additional="-locale en_US" />
+    <option additional="-locale en_US&#xA;-use-direct-blit=true&#xA;-use-gpu=false" />
     <option compilerConstants="" />
     <option minorVersion="" />
   </build>
